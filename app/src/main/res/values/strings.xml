@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookIntegration2</string>
+    <string name="facebook_app_id">194938111025574</string>
+
+   <!-- <string name ="facebook_app_id">291914934571953</string>-->
+
+    <string name="fb_login_protocol_scheme">194938111025574</string>
+
+</resources>
